@@ -11,9 +11,7 @@
 | Garry_Project_112_114_117_pig_bulkRNA_33samples_genename.rds|  [data](https://s3.msi.umn.edu/djglab/Garry_Project_112_114_117_pig_bulkRNA_33samples_genename.rds)|
 
 ## Label meaning
-**C3_Null**: Knock out Nkx2-5, Hand2, Tbx5 <br />
-**NE_Null**: Knock out Nkx2-5, Etv2 <br />
-**Nkx2_5_KO**: Knock out Nkx2-5
+**SKM_Null**: Knock out MYF5/MYOD/MYF6
 ###  Data summary
 | Sample  	|  Condition | Time	|  Processed Reads| Pseudoaligned Rate(%) |
 | :---    	|	:----:   |	:----:   |  :----:   | 	---: |
