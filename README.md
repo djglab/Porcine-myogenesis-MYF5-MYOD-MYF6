@@ -1,6 +1,4 @@
 # Porcine-myogenesis-MYF5-MYOD-MYF6
-# orcine-myogenesis-MYF5-MYOD-MYF6
-## Garry_Project_112 and Garry_Project_114
 ### Data processed using MSI
 | Description | Script |
 | :---      | 	---: |
